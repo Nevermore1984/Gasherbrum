@@ -116,6 +116,7 @@
     <Compile Include="Assets\Scripts\Camera\CameraControl.cs" />
     <Compile Include="Assets\Scripts\Enemy\Doudou.cs" />
     <Compile Include="Assets\Scripts\Hero\PlayerControl.cs" />
+    <Compile Include="Assets\Scripts\MapCreation\Mapcreation.cs" />
     <None Include="Assets\Cinemachine\ReleaseNotes.txt" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>E:/unity3d document/Nevermore1984/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
